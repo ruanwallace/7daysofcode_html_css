@@ -1,0 +1,1 @@
+## Projeto do desafio 7DaysOfCode em HTML e CSS, em que foram utilizados conceitos fundamentais de CSS com Flexbox para estilizá-lo.
